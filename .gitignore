@@ -47,5 +47,6 @@ Thumbs.db
 
 # environment variables
 .env
-brewer-backend/src/.env
+data-backend/src/.env
+node_modules
 
